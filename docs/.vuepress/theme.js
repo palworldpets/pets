@@ -57,12 +57,12 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //     "/zh/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   plugins: {
     // You should generate and use your own comment service
