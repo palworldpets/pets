@@ -8,6 +8,7 @@ export default hopeTheme({
   author: {
     name: "Mr.A",
     url: "https://www.palworldpets.com",
+    email: "contributer@palworldpets.com",
   },
 
   iconAssets: "fontawesome-with-brands",
