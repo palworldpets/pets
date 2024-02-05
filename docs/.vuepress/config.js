@@ -16,7 +16,7 @@ export default defineUserConfig({
         ]
     },
     locales: {
-        "/en/": {
+        "/": {
             lang: "en-US",
             title: "Palworld Pets",
             description: "A docs demo for vuepress-theme-hope",
