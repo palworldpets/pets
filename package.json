@@ -17,7 +17,6 @@
     "vuepress-theme-hope": "2.0.0-rc.20"
   },
   "dependencies": {
-    "@vuepress/plugin-feed": "2.0.0-rc.3",
-    "vuepress-vite": "2.0.0-rc.0"
+    "@vuepress/plugin-feed": "2.0.0-rc.3"
   }
 }
