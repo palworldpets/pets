@@ -1,6 +1,5 @@
 ---
-title: 🌑 Dark Pets
-icon: iconfont icon-fire
+title: 🌑 暗属性
 index: false
 dir:
   order: 11

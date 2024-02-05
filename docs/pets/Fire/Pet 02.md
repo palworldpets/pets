@@ -1,8 +1,10 @@
 ---
-order: 1
+icon: iconfont icon-fire
+order: 20
 category:
-  - pets
-  - Fire
+  - Fire pets
+sticky: true
+star: true
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Project home
+title: 幻兽帕鲁的宠物们
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
@@ -12,11 +12,11 @@ tagline: You can place the description of the project here.
 actions:
   - text: How to Use
     icon: lightbulb
-    link: ./zh/
+    link: /zh/pets/
     type: primary
 
-  - text: 宠物大全
-    link: ./zh/pets/
+  - text: 寻找帕鲁
+    link: /zh/pets/
 
 highlights:
   - header: Easy to install

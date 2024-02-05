@@ -23,7 +23,7 @@ export default defineUserConfig({
         },
         "/zh/": {
             lang: "zh-CN",
-            title: "岶鲁大陆宠物大全",
+            title: "幻兽帕鲁的宠物们",
             description: "vuepress-theme-hope 的文档演示",
         },
     },

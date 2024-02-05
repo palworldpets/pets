@@ -1,6 +1,5 @@
 ---
-title: 🔥 Fire Pets
-icon: iconfont icon-fire
+title: 🔥 火属性
 index: false
 dir:
   order: 14
