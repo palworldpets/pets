@@ -1,2 +1,3 @@
-# pets
+# Palworld Pets
+
 www.palworldpets.com
